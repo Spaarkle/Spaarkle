@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**Spaarkle/Spaarkle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there, I'm Spaarkle!
 
-Here are some ideas to get you started:
+## I'm a student at day, and developer at night.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Currently learning: **Javascript**, **HTML**, & **CSS**
+* 🥅 Goals of mine: Being good at **HMTL** and **CSS**
+* 📫 Reach me here: **thespaarkle@gmail.com**
+* ⚡ Unknown fact: I've been coding for **6** years, and still haven't learned anything.
+
+## Here is what I've learned by coding for 6 years!
+
+```html
+<!DOCTYPE>
+<html lang="da">
+<link rel="stylesheet" href="/src/css/index.css">
+
+<head>
+    <title>
+        Welcome to my journey of coding!
+    </title>
+```
